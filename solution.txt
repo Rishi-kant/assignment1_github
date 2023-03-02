@@ -1,0 +1,2 @@
+Difference between git stash apply and git stash pop;-
+git stash pop throws away the stash after applying it,wheras [D[D[De[C[Cgit stash apply leaves it in the stash list. if we wants to remove the stash after applying git stash apply then then we will use git stash drop.
